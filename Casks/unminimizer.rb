@@ -1,6 +1,6 @@
 cask "unminimizer" do
   version "1.0.0"
-  sha256 "903b7e69390ccbcb3e86e99aa4dbbd3b5afc95eb9e059a34b8090705f83eba37"
+  sha256 "0cf5aae68c4538042220888bc34c809469083e5d6e1af1d11fdb481662affd3e"
 
   url "https://github.com/bjornorri/Unminimizer/releases/download/v#{version}/Unminimizer-#{version}.zip"
   name "Unminimizer"
