@@ -1,6 +1,6 @@
 cask "accio" do
-  version "1.0.2"
-  sha256 "f5e77c38e0faf02c0bac6ee511a5edad6e0db0ef96b4603d98f0c8dc7529778c"
+  version "1.1.0"
+  sha256 "9a74562fbffe1cf5d25d4ae92048815d49aeff80c434888ec6633ec8cd976068"
 
   url "https://github.com/bjornorri/Accio/releases/download/v#{version}/Accio-#{version}.zip"
   name "Accio"
